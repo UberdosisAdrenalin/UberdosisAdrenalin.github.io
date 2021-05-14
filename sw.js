@@ -2,9 +2,9 @@ var cacheName = 'dhideocombr';
 
 var filesToCache = [
   'index.html',
-  '/assets/img/maskable_icon_x192.png',
-  '/assets/img/maskable_icon_x512',
-  '/assets/css/styles.min.css',
+  'assets/img/maskable_icon_x192.png',
+  'assets/img/maskable_icon_x512',
+  'assets/css/styles.min.css',
 ];
 
 // todo: check if service worker is installed before
