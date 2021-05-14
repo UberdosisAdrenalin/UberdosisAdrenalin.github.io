@@ -53,6 +53,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <link rel="apple-touch-icon" href="/assets/img/maskable_icon_x192.png">
 <script src="/sw.js"></script>
+<script>
+  if('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js');
+  };
+</script>
 </head>
 
 <body style="background-color: rgb(98,95,95);">
