@@ -1,12 +1,7 @@
 var cacheName = 'dhideocombr';
 
 var filesToCache = [
-  '/',
   'index.html',
-  '/assets/js/script.min.js',
-  'manifest.json',
-  '/assets/img/Logo.png',
-  '/assets/img/Logo_16x16.png',
   '/assets/img/maskable_icon_x192.png',
   '/assets/img/maskable_icon_x512',
   '/assets/css/styles.min.css',
