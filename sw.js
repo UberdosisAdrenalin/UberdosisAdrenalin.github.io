@@ -3,7 +3,7 @@ var cacheName = 'dhideocombr';
 var filesToCache = [
   'index.html',
   'assets/img/maskable_icon_x192.png',
-  'assets/img/maskable_icon_x512',
+  'assets/img/maskable_icon_x512.png',
   'assets/css/styles.min.css',
 ];
 
